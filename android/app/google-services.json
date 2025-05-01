@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670190825908",
+    "project_id": "bookhub-project2-abhay",
+    "storage_bucket": "bookhub-project2-abhay.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670190825908:android:d9e3a7d3feadf07a9fc2e1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9YNsecCDLle7kAz29Qpu7VlnyBYij1s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
