@@ -1,3 +1,17 @@
+# 📚 BookHub App TEAM 14: Dhruv Patel | Abhay Deep Singh
+
+## 🎥 YouTube Video Presentation:  
+[https://www.youtube.com/watch?v=NSQdsGdZx2E](https://www.youtube.com/watch?v=NSQdsGdZx2E)
+
+A Flutter-based book tracking app that helps users search books, write reviews, and manage reading lists. Users can:
+
+- 🔍 Search and browse books by title or genre  
+- ✍️ Submit and view reviews with star ratings  
+- 📖 Maintain reading lists: *Want to Read*, *Currently Reading*, *Finished*  
+- 🌟 Get personalized recommendations by selected genres  
+- 🧭 Navigate easily through a clean, responsive UI  
+
+
 # flutter_application_project2
 
 A new Flutter project.
