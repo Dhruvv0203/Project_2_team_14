@@ -830,4 +830,3 @@ class _DiscussionBoardPageState extends State<DiscussionBoardPage> {
     );
   }
 }
-
